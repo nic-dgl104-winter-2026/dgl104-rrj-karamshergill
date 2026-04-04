@@ -14,7 +14,7 @@ This help to keep code clean and easy.
 
 ---
 
-# MODEL VIEW CONTROLLER (SIMPLE)
+# MODEL VIEW CONTROLLER 
 
 In this:
 
@@ -30,7 +30,7 @@ This is easy and simple.
 
 ---
 
-# MODEL VIEW VIEWMODEL (SIMPLE)
+# MODEL VIEW VIEWMODEL 
 
 In this:
 
@@ -45,7 +45,7 @@ Little confusing for me at start.
 
 ---
 
-# MODEL VIEW PRESENTER (SIMPLE)
+# MODEL VIEW PRESENTER 
 
 In this:
 
